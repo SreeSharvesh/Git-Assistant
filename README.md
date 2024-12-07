@@ -44,7 +44,7 @@ Ensure the following before setting up the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SreeSharvesh/Git-Assistant
    cd Git-Assistant
    ```
 2. **Install Dependencies:**:
